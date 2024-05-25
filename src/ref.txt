@@ -1,0 +1,1 @@
+https://rcore-os.cn/rCore-Tutorial-Book-v3/chapter1/2remove-std.html
